@@ -1,4 +1,4 @@
-# LIT 5216: Comics and ImageText
+# LIT 6216: Electronic Literature
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [LIT 5216: Comics and ImageText](#lit-5216-comics-and-imagetext)
+- [LIT 6216: Electronic Literature](#lit-6216-electronic-literature)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
@@ -16,18 +16,18 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Asynchronous Course Structure](#asynchronous-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: "Kid Stuff" (Opens Monday, May 17, 2021)](#week-one-kid-stuff-opens-monday-may-17-2021)
-    - [Week Two: Pictures (Opens Monday, May 24, 2021)](#week-two-pictures-opens-monday-may-24-2021)
-    - [Week Three: Words (Opens Monday, May 31, 2021)](#week-three-words-opens-monday-may-31-2021)
-    - [Week Four: Time (Opens Monday, June 7, 2021)](#week-four-time-opens-monday-june-7-2021)
-    - [Week Five: Memory (Opens Monday, June 14, 2021)](#week-five-memory-opens-monday-june-14-2021)
-    - [Week Six: Body (Opens Monday, June 21, 2021)](#week-six-body-opens-monday-june-21-2021)
-    - [Week Seven: Self (Opens Monday, June 28, 2021)](#week-seven-self-opens-monday-june-28-2021)
-    - [Week Eight: Trauma (Opens Monday, July 5, 2021)](#week-eight-trauma-opens-monday-july-5-2021)
-    - [Week Nine: Heroes (Opens Monday, July 12, 2021)](#week-nine-heroes-opens-monday-july-12-2021)
-    - [Week Ten: Futures (Opens Monday, July 19, 2021)](#week-ten-futures-opens-monday-july-19-2021)
-    - [Week Eleven: Platforms (Opens Monday, July 26, 2021)](#week-eleven-platforms-opens-monday-july-26-2021)
-    - [Week Twelve: Final Paper (Submit by Saturday, August 7th)](#week-twelve-final-paper-submit-by-saturday-august-7th)
+    - [Week One: Defining Electronic Literature (Opens Monday, May 16)](#week-one-defining-electronic-literature-opens-monday-may-16)
+    - [Week Two: Page to Screen (Opens Monday, May 23)](#week-two-page-to-screen-opens-monday-may-23)
+    - [Week Three: Contexts (Opens Monday, May 30)](#week-three-contexts-opens-monday-may-30)
+    - [Week Four: Time (Opens Monday, June 6)](#week-four-time-opens-monday-june-6)
+    - [Week Five: Memory (Opens Monday, June 13)](#week-five-memory-opens-monday-june-13)
+    - [Week Six: Body (Opens Monday, June 20)](#week-six-body-opens-monday-june-20)
+    - [Week Seven: Self (Opens Monday, June 27)](#week-seven-self-opens-monday-june-27)
+    - [Week Eight: Trauma (Opens Monday, July 4)](#week-eight-trauma-opens-monday-july-4)
+    - [Week Nine: Heroes (Opens Monday, July 11)](#week-nine-heroes-opens-monday-july-11)
+    - [Week Ten: Futures (Opens Monday, July 18)](#week-ten-futures-opens-monday-july-18)
+    - [Week Eleven: Platforms (Opens Monday, July 25)](#week-eleven-platforms-opens-monday-july-25)
+    - [Week Twelve: Final Paper (Submit by Saturday, August 6th)](#week-twelve-final-paper-submit-by-saturday-august-6th)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -42,17 +42,17 @@
 
 ## Course Description
 
-In this seminar, we will explore the contemporary comic, considering literary and cultural works across a range of platforms and markets. Comics are still frequently (and historically) associated with popular culture, and linked to children's literature and mass media, even as they loom large through big and small screen adaptations with global reach. However, the combination of image and text has a powerful role in literary practice. As we survey works by influential artists and authors including Ta-Nehisi Coates, Gilbert Hernandez, Jason, Nnedi Okorafor, Noelle Stevenson, and Gene Luen Yang, we will consider the influence of changing technologies and distribution mechanisms on our understanding of "comics" and imagetext more broadly. Forms under examination include:
+In this seminar, we will explore contemporary forms of electronic literature, which broadly encompasses many genres of literary fiction and poetry created using the affordances of the computer and networked media. Working from the prehistory of Oulipian constrained writing through to early hypertext experiments of Shelley Jackson to contemporary interactive fiction Kentucky Route Zero, we will develop an understanding of both the history and current trends in born-digital literary experimentation and practice. Through the lens of these digital texts, we will explore the potential for reimagining the "book" through new interfaces, interactions, and technologies. While we will engage in literary readings of code and design choices in interactive and procedural work, no knowledge of code is necessary.
 
-- Newspaper one-panel and "daily" strips
-- Experimental graphic novels
-- Comic as memoir / Autobiographical comics
-- Literary influences on mainstream superhero comics
-- Representation and cultural reception of comics
-- Experimental webcomics and zines
-- Motion comics and interactive work
+- Hypertext fiction
+- Electronic Poetry
+- Interactive Fiction
+- Generative Works and Bots
+- Literary Games
+- Installations and Kinetic Text
+- Augmented and Virtual Reality
 
-Through our attention will be primarily focused on the recent state of comics and comic studies as a field, lectures and discussions will draw in historical perspectives on each form, as well as the shifting impact of cultural discourse and conflict on how comics are perceived. Assignments include weekly discussions with shared close readings; comic annotation; and an iterative conference-length or short journal research paper. Venues recommended for the paper include graduate-student friendly journals such as [*The Comics Grid*](https://www.comicsgrid.com/); [*ImageText: Interdisciplinary Comic Studies*](http://imagetext.english.ufl.edu/); [*Transformative Works and Cultures*](https://journal.transformativeworks.org/index.php/twc); and relevant conferences (such as **Console-ing Passions**, which will be hosted at UCF in Summer 2022).
+While students are welcome to purchase the individual books, all course texts will be available for free through e-library reserves at UCF or as open access texts. Assignments include weekly discussions; close readings; code and design critique; and an iterative conference-length research paper. Venues recommended for the paper include graduate-student friendly journals such as [*Hyperrhiz*](http://hyperrhiz.io/cfp.html); [*Electronic Book Review*](http://electronicbookreview.com/policies-and-submissions/); [*First Person Scholar*](http://www.firstpersonscholar.com/); and relevant conferences.
 
 Each week, plan on following following instructions in online modules regarding readings and online exercises. Each module will be divided into three sections:
 
@@ -98,13 +98,12 @@ Supplementary recommended readings are included in each module to guide work tow
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, May 21st  |
-| 30  | **Discussions** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly |
-| 10 | **Comics Annotation** - Using the methodology of *How to Read Nancy*, annotate a section of the work chosen for final analysis. Students are encouraged to use graphics programs to break down the panels and components, and draw attention to details of symbolism, design, and structure in the chosen sequence. A 2-page spread is recommended.  | Sunday, June 13, 2021  |
-| 10  |  **Literature Review** - Following the selection of a text or text(s) for the final project, students will develop a literature review to become familiar with the discussion of the work or its genre. Plan to gather at least five additional scholarly sources, and two journalistic or fan sources, to complete a literature review for the final analysis paper. Students are encouraged to use Zotero to manage their works cited efficiently. | Sunday, June 27, 2021  |
-| 15  |  **Paper Draft** - An approximately 5,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, or default to MLA requirements if targeting a conference without specific format requirements. This drdaft is graded on completion only, but will serve as the foundation for both peer and instructor feedback to guide revisions. | Sunday, July 11, 2021  |
-| 10  |  **Peer Review Feedback** - Paired critique and detailed, constructive, response to an assigned draft. Focus on content, substance, and clarity of communication: students should provide the quality of peer review feedback they hope to receive from others. | Sunday, July 18, 2021  |
-| 20 |  **Final Paper** - At the closure of the course, students will have completed a 6,000 - 7,000 word draft of the final paper, targeted towards one of the suggested venues, and prepared with future submission in mind. Final papers should be submitted with a brief summary overview of all revisions, with specific notes regarding how peeer and instructor feedback influenced the final writing. | Saturday, August 7, 2021  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, May 20th  |
+| 40  | **Discussions** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. There will be no required discussions on weeks with large project deadlines | Weekly |
+| 10 | **Traversal** - Using the methodology of the *Pathfinders* project, record a short (generally 4-5 minute) traversal critiquing a selected work of electronic literature. Ideally, this work will be one of the pieces the student has chosen for their research paper. | Sunday, June 12th  |
+| 15  |  **Literature Review** - Following the selection of a text or text(s) for the final project, students will develop a literature review to become familiar with the discussion of the work or its genre. Plan to gather at least five additional scholarly sources, and two journalistic or fan sources, to complete a literature review for the final analysis paper. Students are encouraged to use Zotero to manage their works cited efficiently. | Sunday, July 3rd  |
+| 15  |  **Paper Draft** - An approximately 4,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, or default to MLA requirements if targeting a conference without specific format requirements. This draft is graded on completion only, but will serve as the foundation for both peer and instructor feedback to guide revisions. | Sunday, July 24th  |
+| 20 |  **Final Paper** - At the closure of the course, students will have completed a 5,000 - 6,000 word draft of the final paper, targeted towards one of the suggested venues, and prepared with future submission in mind. Final papers should be submitted with a brief summary overview of all revisions, with specific notes regarding how peeer and instructor feedback influenced the final writing. | Saturday, August 7, 2021  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -127,24 +126,24 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 ## Weekly Schedule
 
-### Week One: "Kid Stuff" (Opens Monday, May 17, 2021)
+### Week One: Defining Electronic Literature (Opens Monday, May 16)
 
 We open with an exemplar of current "all-ages" comics: *Lumberjanes*, a series that has been recognized for its feminist and queer representation, and represents the significant progress in mainstream children's comics. Using it as a lens to look back, we will discuss the history of the children's comic, and consider how the "daily newspaper" strips and ephemeral, disposable, comic books influenced early reception of the form.
 
-- *How to Read Nancy*: Strip, Script
+- *Electronic Literature*: Chapter 1. What Is It?
 - Stevenson, Noelle, et al. *Lumberjanes*, Vol. 1. BOOM! - BOOM! Box, 2015.
 - Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82.
-- **Due: Activity Verification (Friday May 21st)**
+- **Due: Activity Verification (Friday May 20th)**
 
-### Week Two: Pictures (Opens Monday, May 24, 2021)
+### Week Two: Page to Screen (Opens Monday, May 23)
 
 In week two, we use a wordless comic by Norwegian cartoonist Jason, *Tell Me Something*: through considering his sparse minimalism, we can think through the role of visual expression in image-text. We place Jason's work in the context of other wordless, or limited text, pieces, including picture books that serve a dual audience as a bridge towards literacy.
 
-- *How to Read Nancy*: Cast
+- *Electronic Literature*: Chapter 2. Intermediation
 - Jason. *Tell Me Something.* Fantagraphics, 2004.
 - Nikolajeva, Maria, and Carole Scott. “The Dynamics of Picturebook Communication.” *Children’s Literature in Education*, vol. 31, no. 4, 2000, pp. 225–39.
 
-### Week Three: Words (Opens Monday, May 31, 2021)
+### Week Three: Contexts (Opens Monday, May 30)
 
 As we move towards contemporary comics, we consider how borders are defined based on texts and their placements: using Scott Snyder and Jeff Lemire's indie-comic influenced *A.D.* as a starting point, we contextualize the ways that image-text relationships are ever-changing, and focus in on the role of words as both aesthetic and literary.
 
@@ -153,16 +152,16 @@ As we move towards contemporary comics, we consider how borders are defined base
 - Witek, Joseph. [“Imagetext, or, Why Art Spiegelman Doesn’t Draw Comics.” *ImageText Vol 1:1*, 2004.](http://imagetext.english.ufl.edu/archives/v1_1/witek/)
 - Buxton, Marc. [“A.D. After Death: An Interview with Scott Snyder and Jeff Lemire.”](https://www.denofgeek.com/comics/ad-after-death-an-interview-with-scott-snyder-and-jeff-lemire/) *Den of Geek*, 10 Oct. 2016.
 
-### Week Four: Time (Opens Monday, June 7, 2021)
+### Week Four: Time (Opens Monday, June 6)
 
 Considering the challenges and opportunities of closure, we move to exploring the space between panels, and the potential for play and experimentation with time. Using the century-spanning *Julio's Day* as a starting point, we consider how comics relates to more linearly time-driven media.
 
 - *How to Read Nancy*: Production, Staging
 - Hernandez, Gilbert, and Brian Evenson. *Julio’s Day.* Fantagraphics, 2013.
 - Souza, Marcelo Mendes de. “Comic-Chronotope in Julio’s Day: Gilbert Hernandez’s Explorations of the Form-Shaping Ideologies of the Medium.” *Journal of Graphic Novels and Comics*, vol. 8, no. 4, Routledge, July 2017, pp. 359–75.
-- **Due: Comics Annotation (Sunday, June 13th)**
+- **Due: Traversal (Sunday, June 12th)**
   
-### Week Five: Memory (Opens Monday, June 14, 2021)
+### Week Five: Memory (Opens Monday, June 13)
 
 As we move from time to our hazy recollections, we explore the comic as a space for memoir, considering both the nature of self-representation and the intentional use of layers of the real and the abstracted. By considering both more traditional comics and web-based work, we can consider the role that changing platforms play in comics as a site of memory.
 
@@ -172,7 +171,7 @@ As we move from time to our hazy recollections, we explore the comic as a space 
 - Quesenberry, Krista. “Intersectional and Non-Human Self-Representation in Women’s Autobiographical Comics.” *Journal of Graphic Novels and Comics*, vol. 8, no. 5, Routledge, Sept. 2017, pp. 417–32.
 - Earle, Harriet E. H. “My Friend Dahmer: The Comic as Bildungsroman.” *Journal of Graphic Novels and Comics*, vol. 5, no. 4, Routledge, Oct. 2014, pp. 429–40.
 
-### Week Six: Body (Opens Monday, June 21, 2021)
+### Week Six: Body (Opens Monday, June 20)
 
 Continuing to consider the body and its contested representation in image-text, we move to feminist imaginings and interventions, using Una's *Becoming Unbecoming* work on representing and denouncing sexual violence as a central text. We will explore the history of feminist graphic art, and its role in reshaping both indie and mainstream comics.
 
@@ -180,9 +179,9 @@ Continuing to consider the body and its contested representation in image-text, 
 - Una. *Becoming Unbecoming.* Illustrated edition, Arsenal Pulp Press, 2016.*
 - Mok, Annie. [*The Personal Politics of "Passing."* 2019.](https://thenib.com/the-personal-politics-of-passing/)
 - Chute, Hillary. “Feminist Graphic Art.” *Feminist Studies*, vol. 44, no. 1, Feminist Studies, Inc., 2018, pp. 153–70. JSTOR, doi:10.15767/feministstudies.44.1.0153.
-- **Due: Literature Review (Sunday, June 27th)**
+
   
-### Week Seven: Self (Opens Monday, June 28, 2021)
+### Week Seven: Self (Opens Monday, June 27)
 
 Continuing with feminist lenses and amplifying the role of changing platforms in shaping comics authorship, distribution, and readership towards greater inclusivity, we turn to the anthology work of Eleanor Davis's *How to Be Happy.* By placing her work alongside other web and indie comics artists, we explore the current role of image-text in exploration of the self.
 
@@ -191,26 +190,27 @@ Continuing with feminist lenses and amplifying the role of changing platforms in
 - Chanani, Nidhi. [*Flying While Brown.* 2017.](https://thenib.com/flying-while-brown/)
 - Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
 -Brown, Hillary. [“Taking Inventory: The Comics Of Eleanor Davis |.” The Comics Journal, 16 June 2020.](http://www.tcj.com/taking-inventory-the-comics-of-eleanor-davis/)
+- **Due: Literature Review (Sunday, July 3rd)**
 
-### Week Eight: Trauma (Opens Monday, July 5, 2021)
+### Week Eight: Trauma (Opens Monday, July 4)
 
 Building on our discussions of Una's work, we turn to *Bitch Planet* as an exemplar of feminist influences in mainstream comics, noting both its resonance as a work of dystopian fiction and its cultural influence through the popularization of "Non-Compliance."
 
 - DeConnick, Kelly Sue, and Valentine De Landro. *Bitch Planet*, Vol. 1: Extraordinary Machine. Illustrated edition, Image Comics, 2015.
 - Gray, Brenna Clarke, and David N. Wright. “Decentering the Sexual Aggressor: Sexual Violence, Trigger Warnings and Bitch Planet.” *Journal of Graphic Novels and Comics*, vol. 8, no. 3, Routledge, May 2017, pp. 264–76. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1307240.
 - Whitted, Qiana. [“Caged and Enraged: Bitch Planet Comics Studies Round Table (Part One).” The Middle Spaces, 6 Mar. 2018.](https://themiddlespaces.com/2018/03/06/bitch-planet-1/)
-- **Due: Paper Draft (Sunday, July 11th)**
 
-### Week Nine: Heroes (Opens Monday, July 12, 2021)
+
+### Week Nine: Heroes (Opens Monday, July 11)
 
 Drawing on the ongoing threads of "indie" interventions pushing change in mainstream comics spaces, we move to the big two of comics (DC and Marvel), and  consider critical changes in race, identity, and the superhero. While we will be attentive to the impact of such work on transmedia cultural franchises, and their corresponding influence on culture, we focus on the books that represent key sites of cultural change and tensions.
 
 - Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
 - Yang, Gene Luen. *New Super-Man*, Vol. 1: Made In China. Illustrated edition, DC Comics, 2017.
 - Kent, Miriam. “Unveiling Marvels: Ms. Marvel and the Reception of the New Muslim Superheroine.” *Feminist Media Studies*, vol. 15, no. 3, Routledge, May 2015, pp. 522–27. Taylor and Francis+NEJM, doi:10.1080/14680777.2015.1031964.
-- **Due: Peer Review Feedback (Sunday, July 18th)**
 
-### Week Ten: Futures (Opens Monday, July 19, 2021)
+
+### Week Ten: Futures (Opens Monday, July 18)
 
 As we draw towards the close the semester, we turn towards the future of superhero comics, considering the significant influence of Afrofuturism on the current graphical and literary imagination of image-text. Does such work suggest an anti-racist, queer, and feminist move within the mainstream of comics, shifting the margins towards the center?
 
@@ -218,8 +218,9 @@ As we draw towards the close the semester, we turn towards the future of superhe
 - Okorafor, Nnedi, and Leonardo Romero. *Shuri: The Search for Black Panther.* Illustrated edition, Marvel, 2019.
 - carrington, andré. “Desiring Blackness: A Queer Orientation to Marvel’s Black Panther, 1998–2016.” *American Literature*, vol. 90, no. 2, June 2018, pp. 221–50. Silverchair, doi:10.1215/00029831-4564286.
 - Chambliss, Julian C. “The Evolution of the Idea.” Science Fiction Film and Television, vol. 12, no. 3, Liverpool University Press, 2019, pp. 373–80.
+- **Due: Paper Draft (Sunday, July 24th)**
 
-### Week Eleven: Platforms (Opens Monday, July 26, 2021)
+### Week Eleven: Platforms (Opens Monday, July 25)
 
 Continuing our theme of comics-futures, we turn towards the role of technology in changing the form and function of the "comic": from the square multi-paneled posts of Instagram, to the animated gif comics of Tumblr, to the motion comics popularized by larger publishers, how will technology continue to redefine the image-text and its limits?
 
@@ -230,11 +231,11 @@ Continuing our theme of comics-futures, we turn towards the role of technology i
 - Close, Samantha. “The Absent Presence of Gender in Webcomics.” *Feminist Media Studies*, vol. 15, no. 3, May 2015, pp. 533–38. DOI.org (Crossref), doi:10.1080/14680777.2015.1031969.
 - Resha, Adrienne. “The Blue Age of Comic Books.” *Inks: The Journal of the Comics Studies Society*, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
 
-### Week Twelve: Final Paper (Submit by Saturday, August 7th)
+### Week Twelve: Final Paper (Submit by Saturday, August 6th)
 
-All work (including extensions granted throughout the semester) is due by the close of classes on Saturday, August 7th. Any work submitted after that time must be part of an approved incomplete.
+All work (including extensions granted throughout the semester) is due by the close of classes on Saturday, August 6th. Any work submitted after that time must be part of an approved incomplete.
 
-- **Due: Final Paper! Class ends Saturday, August 7th!**
+- **Due: Final Paper! Class ends Saturday, August 6th!**
 
 ---
 
