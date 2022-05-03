@@ -52,7 +52,7 @@ In this seminar, we will explore contemporary forms of electronic literature, wh
 - Installations and Kinetic Text
 - Augmented and Virtual Reality
 
-While students are welcome to purchase the individual books, all course texts will be available for free through e-library reserves at UCF or as open access texts. Assignments include weekly discussions; close readings; code and design critique; and an iterative conference-length research paper. Venues recommended for the paper include graduate-student friendly journals such as [*Hyperrhiz*](http://hyperrhiz.io/cfp.html) or [*Electronic Book Review*](http://electronicbookreview.com/policies-and-submissions/). ALternatively, students are encouraged to consider preparing submissions to relevant conferences.
+While students are welcome to purchase the individual books, all course texts will be available for free through e-library reserves at UCF or as open access texts. Assignments include weekly discussions; close readings; code and design critique; and an iterative conference-length research paper. Venues recommended for the paper include graduate-student friendly journals such as [*Hyperrhiz*](http://hyperrhiz.io/cfp.html) or [*Electronic Book Review*](http://electronicbookreview.com/policies-and-submissions/). Alternatively, students are encouraged to consider preparing submissions to relevant conferences.
 
 Each week, plan on following following instructions in online modules regarding readings and online exercises. Each module will be divided into three sections:
 
