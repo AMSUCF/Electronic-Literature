@@ -120,6 +120,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - *Electronic Literature*: Chapter 1. What Is It?
 - [Shelley Jackson, *my body — a Wunderkammer*](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html)
 - [Porpentine, *With Those We Love Alive*](https://collection.eliterature.org/3/work.html?work=with-those-we-love-alive)
+- [Lyle Skains, *No World 4 Tomorrow* Demo Traversal](https://www.youtube.com/watch?v=BhwBb18iPZ4)
 - [Giovanna di Rosari, Nohelia Meza and Kerri Grimaldi, "The Origins of Electronic Literature"](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch1-the-origins-of-electronic-literature-an-overview)
 - [Explore: *the html review*](https://thehtml.review/)
 - **Due: Activity Verification (Friday May 20th)**
@@ -130,8 +131,8 @@ This course uses an asynchronous format, and relies upon students to complete al
 - *Electronic Literature*: Chapter 2. Intermediation
 - [Robert Coover, "The End of Books."](https://archive.nytimes.com/www.nytimes.com/books/98/09/27/specials/coover-end.html?)
 - [Dene Grigar and Stuart Moulthrop, *Pathfinders*](https://scalar.usc.edu/works/pathfinders/introduction?path=index)
-- [James O'Sullivan's Traversal of Michael Joyce's *afternoon, a story*](https://vimeo.com/434185688)
-- [Michael Joyce, *Twelve Blue*](https://collection.eliterature.org/1/works/joyce__twelve_blue.html)
+- [Michael Joyce's *afternoon, a story* Traversal by James O'Sullivan](https://vimeo.com/434185688)
+- [Deena Larsen, *Samplers* Traversal](https://scalar.usc.edu/works/rebooting-electronic-literature-volume-2/traversal-of-deena-larsens-samplers)
 - [Explore: *the new river*](https://thenewriver.us/)
 - **Discussion Two**
 
@@ -141,6 +142,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Jessica Pressman, "Contexts of Digital Literature Criticism: Feminist, Queer, Materialist"](http://hyperrhiz.io/hyperrhiz20/expanding-criticism/1-pressman-contexts-criticism.html)
 - [Talan Memmott, Lexia to Perplexia](https://collection.eliterature.org/1/works/memmott__lexia_to_perplexia.html)
 - [Carolyn Guertin and Marjorie Coverley Luesebrink, "Progressive Dinner Party"](http://www.heelstone.com/meridian/templates/Dinner/dinner1.htm)
+- [Stephanie Strickland, *True North* Traversal](https://vimeo.com/342877068)
 - [Explore: *ELC Volume 4*](https://collection.eliterature.org/)
 - **Discussion Three**
 
@@ -150,6 +152,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Mark Marino, "Critical Code Studies](https://electronicbookreview.com/essay/critical-code-studies/)
 - [John Cayley, "Translation"](https://collection.eliterature.org/1/works/cayley__translation.html)
 - [Nick Montfort, Taroko Gorge; Kathi Inman Berens, Tournedo Gorge; Flourish Klink, Fred & George; Piotr Marecki, Wąwóz Kraków](https://collection.eliterature.org/3/collection-taroko.html)
+- [Judy Malloy, *Uncle Roger* Traversal](https://scalar.usc.edu/works/pathfinders/malloys-traversal)
 - [Explore: Dead Alive](https://deadalivemagazine.com/)
 - **Due: Traversal (Sunday, June 12th)**
   
@@ -166,14 +169,17 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 - *Literary Gaming*: 1. Introduction / 2. Playing with Rather Than By the Rules
 - [Aaron Reed, "Dwarf Fortress"](https://if50.substack.com/p/2006-dwarf-fortress?s=r)
+- [Tarn Adams and Zach Adams, *Dwarf Fortress*](https://collection.eliterature.org/3/work.html?work=dwarf-fortress)
 - [Jason Nelson, "Game Game Game and Again Game"](https://vimeo.com/496284391)
 - [Dietrich Squinkifer, "Quing's Quest VII"](https://collection.eliterature.org/3/work.html?work=quings-quest-vii)
+- Bo Ruberg, "The Mystery of the Missing AIDS Crisis" (PDF)
 - **Discussion Five**
 
 ### Week Seven: Ludicity (Opens Monday, June 27)
 
 - *Literary Gaming*: 3. Lucidity and Literariness / 4. Ludic Hypertext
 - [Stuart Moulthrop, "1000 Words into the Future of Text"](http://www.smoulthrop.com/lit/twft/)
+- Scott Rettberg, "Post-Hyperfiction" (PDF)
 - [Anastasia Salter and Stuart Moulthrop, "Why Twining?"](https://electronicbookreview.com/essay/why-twining/)
 - [Anna Anthropy, Queers in Love at the End of the World](https://w.itch.io/end-of-the-world)
 - [Explore: sub-Q](https://sub-q.com/category/fiction/)
@@ -185,12 +191,14 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Christine Love, *Digital: A Love Story*](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
 - [Daniella Gáti, "Playing with Plants, Loving Computers"](https://www.eludamos.org/index.php/eludamos/article/view/vol12no1-5)
 - [3-Fold Games, *Before I Forget*](https://www.youtube.com/watch?v=MdmRb-3wkAg)
+- [Gareth Schott, "Contemplating Life and Death..."](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/11325/30_DIGRA2017_FP_Schott_Dragon_Cancer1.pdf?isAllowed=y&sequence=2)
 - **Discussion Six**
 
 ### Week Nine: Poetics (Opens Monday, July 11)
 
 - *Literary Gaming*: 7. Interactive Fiction / 8. Poetic Gaming
 - [Aaron Reed, "Machines for Getting Lost on Purpose"](https://medium.com/@aareed/machines-for-getting-lost-on-purpose-4af910f70ed7)
+- [Alesha Serada, "Will Kentucky Route Zero Take You to Twin Peaks?"](http://widerscreen.fi/numerot/2021-1-2/will-kentucky-route-zero-take-you-to-twin-peaks-tracing-the-narrative-of-the-american-weird/)
 - [Kentucky Route Zero](https://www.youtube.com/watch?v=ZRzdfr9DWVM&t=152s)
 - Nick Montfort, Riddle Machines (PDF)
 - [Explore: IFComp](https://ifcomp.org/)
@@ -200,6 +208,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 - *Literary Gaming*: 9. The Path / 10. Conclusion
 - [The Path](https://www.youtube.com/playlist?list=PL9C1BC050AE89C01E)
+- [Melissa Kagen, "Wandering Games"](https://www.youtube.com/watch?v=U40TbYuB_hI&t=4s)
 - [Rebecca Lipperini, "This is the Fate I Choose"](http://www.firstpersonscholar.com/this-is-the-fate-i-choose-how-a-shakespeare-hating-game-developer-made-the-best-shakespeare-adaptation-ive-seen-all-year/)
 - [Elsinore](https://www.youtube.com/watch?v=y6rMdih6ljA)
 - **Due: Paper Draft (Sunday, July 24th)**
