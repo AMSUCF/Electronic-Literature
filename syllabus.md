@@ -134,6 +134,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Michael Joyce's *afternoon, a story* Traversal by James O'Sullivan](https://vimeo.com/434185688)
 - [Deena Larsen, *Samplers* Traversal](https://scalar.usc.edu/works/rebooting-electronic-literature-volume-2/traversal-of-deena-larsens-samplers)
 - [Explore: *the new river*](https://thenewriver.us/)
+- Guest Lecture: Kathi Inman Berens
 - **Discussion Two**
 
 ### Week Three: Contexts (Opens Monday, May 30)
@@ -144,6 +145,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Carolyn Guertin and Marjorie Coverley Luesebrink, "Progressive Dinner Party"](http://www.heelstone.com/meridian/templates/Dinner/dinner1.htm)
 - [Stephanie Strickland, *True North* Traversal](https://vimeo.com/342877068)
 - [Explore: *ELC Volume 4*](https://collection.eliterature.org/)
+- Guest Lecture: Lyle Skains
 - **Discussion Three**
 
 ### Week Four: Computational Practice (Opens Monday, June 6)
@@ -173,6 +175,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Jason Nelson, "Game Game Game and Again Game"](https://vimeo.com/496284391)
 - [Dietrich Squinkifer, "Quing's Quest VII"](https://collection.eliterature.org/3/work.html?work=quings-quest-vii)
 - Bo Ruberg, "The Mystery of the Missing AIDS Crisis" (PDF)
+- Guest Lecture: Bridget Blodgett
 - **Discussion Five**
 
 ### Week Seven: Ludicity (Opens Monday, June 27)
@@ -202,6 +205,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Kentucky Route Zero](https://www.youtube.com/watch?v=ZRzdfr9DWVM&t=152s)
 - Nick Montfort, Riddle Machines (PDF)
 - [Explore: IFComp](https://ifcomp.org/)
+- Guest Lecture: John Murray
 - **Discussion Seven**
 
 ### Week Ten: Auteurs (Opens Monday, July 18)
