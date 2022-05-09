@@ -61,7 +61,7 @@ While students are welcome to purchase the individual books, all course texts wi
 Each week, plan on following following instructions in online modules regarding readings and online exercises. Each module will be divided into three sections:
 
 - **Weekly readings.** Complete this combination of primary and secondary texts prior to engaging with the rest of the module. The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module.
-- **Analysis.** A combination of prerecorded lectures, recommended readings and viewings, and annotations from the instructor for reflection. In addition, optional live sessions will offer opportunities to gather for group discussion. Recordings will be available after all optional live sessions.
+- **Analysis.** A combination of prerecorded lectures, recommended readings and viewings, and annotations from the instructor for reflection. Some weeks feature additional guest speakers and additional recommended readings to accompany their conversations.
 - **Discussion.** A weekly discussion will focus on progress towards the course paper, with opportunities to share and reflect upon the works with your peers. Discussions are required, and will be graded on completion.
 
 ---
@@ -110,7 +110,7 @@ There is no extra credit work available in this class. Grades will be available 
 
 This course uses an asynchronous format, and relies upon students to complete all readings, engage with both pre-recorded and external videos, and join in on course discussions. All assignments are due on Sunday night at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
-- Office hour assistance is available both through text on Webcourses messages and via Zoom: reaching out through Webcourses first is recommended, and we will schedule meetings live at times convenient to all.
+- Office hour assistance is available both through text on Webcourses messages and via Zoom: reaching out through Webcourses first is recommended, and Zoom meetings will be scheduled at mutually convenient times.
 - All course materials are asynchronous, using a mix of video and text as appropriate. However, the course does require consistent weekly participation following the listed schedule - it is not self-paced!
 - Students will need access to a reliable internet connection and computer, chromebook, or tablet in order to participate in the course. Students are not required to install software, but will have the option to do so for some critiques.
 - In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
