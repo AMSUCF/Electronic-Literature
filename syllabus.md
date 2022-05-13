@@ -160,6 +160,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Nick Montfort, Taroko Gorge; Kathi Inman Berens, Tournedo Gorge; Flourish Klink, Fred & George; Piotr Marecki, Wąwóz Kraków](https://collection.eliterature.org/3/collection-taroko.html)
 - [Judy Malloy, *Uncle Roger* Traversal](https://scalar.usc.edu/works/pathfinders/malloys-traversal)
 - [Explore: Dead Alive](https://deadalivemagazine.com/)
+- Guest Lecture: Rui Torres
 - **Due: Traversal (Sunday, June 12th)**
   
 ### Week Five: Futures Past (Opens Monday, June 13)
@@ -169,6 +170,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Jason Lewis and Bruno Nadeau, "The P.O.E.M.M. Cycle"](https://collection.eliterature.org/3/work.html?work=vital-to-the-general-public-welfare)
 - [Claudia Kozak, "Experimental Electronic Literature from the South"](https://electronicbookreview.com/essay/experimental-electronic-literature-from-the-souths-a-political-contribution-to-critical-and-creative-digital-humanities/)
 - [Erik Loyer, "Strange Rain"](https://erikloyer.com/index.php/projects/detail/strange_rain)
+- Guest Lecture: Sarah Laiola
 - **Discussion Four**
 
 ### Week Six: Rules (Opens Monday, June 20)
