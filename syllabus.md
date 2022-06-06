@@ -192,6 +192,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Anastasia Salter and Stuart Moulthrop, "Why Twining?"](https://electronicbookreview.com/essay/why-twining/)
 - [Anna Anthropy, Queers in Love at the End of the World](https://w.itch.io/end-of-the-world)
 - [Explore: sub-Q](https://sub-q.com/category/fiction/)
+- Guest Lecture: Mia Zamora
 - **Due: Literature Review (Sunday, July 3rd)**
 
 ### Week Eight: Antiludicity (Opens Monday, July 4)
@@ -221,6 +222,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Melissa Kagen, "Wandering Games"](https://www.youtube.com/watch?v=U40TbYuB_hI&t=4s)
 - [Rebecca Lipperini, "This is the Fate I Choose"](http://www.firstpersonscholar.com/this-is-the-fate-i-choose-how-a-shakespeare-hating-game-developer-made-the-best-shakespeare-adaptation-ive-seen-all-year/)
 - [Elsinore](https://www.youtube.com/watch?v=y6rMdih6ljA)
+- Guest Lecture: Melissa Kagen
 - **Due: Paper Draft (Sunday, July 24th)**
 
 ### Week Eleven: (re)generation (Opens Monday, July 25)
