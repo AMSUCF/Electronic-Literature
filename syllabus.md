@@ -192,7 +192,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Anastasia Salter and Stuart Moulthrop, "Why Twining?"](https://electronicbookreview.com/essay/why-twining/)
 - [Anna Anthropy, Queers in Love at the End of the World](https://w.itch.io/end-of-the-world)
 - [Explore: sub-Q](https://sub-q.com/category/fiction/)
-- Guest Lecture: Mia Zamora
+- Guest Lecture: Mark Kretzschmar
 - **Due: Literature Review (Sunday, July 3rd)**
 
 ### Week Eight: Antiludicity (Opens Monday, July 4)
@@ -202,6 +202,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Daniella Gáti, "Playing with Plants, Loving Computers"](https://www.eludamos.org/index.php/eludamos/article/view/vol12no1-5)
 - [3-Fold Games, *Before I Forget*](https://www.youtube.com/watch?v=MdmRb-3wkAg)
 - [Gareth Schott, "Contemplating Life and Death..."](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/11325/30_DIGRA2017_FP_Schott_Dragon_Cancer1.pdf?isAllowed=y&sequence=2)
+- Guest Lecture: Chloe Milligan
 - **Discussion Six**
 
 ### Week Nine: Poetics (Opens Monday, July 11)
